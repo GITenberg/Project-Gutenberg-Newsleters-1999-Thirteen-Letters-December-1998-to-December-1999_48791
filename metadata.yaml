@@ -1,4 +1,8 @@
 _repo: Project-Gutenberg-Newsleters-1999-Thirteen-Letters-December-1998-to-December-1999_48791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hart, Michael
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '958'
     url: http://www.gutenberg.org/2009/agents/958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48791#Project-Gutenberg-Newsleters-1999-Thirteen-Letters-December-1998-to-December-1999
 gutenberg_issued: '2015-04-22'
 gutenberg_type: Text
 identifiers:
