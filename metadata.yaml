@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Project Gutenberg Newsleters 1999
 
   Thirteen Letters: December 1998 to December 1999'
